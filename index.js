@@ -12,7 +12,8 @@ var randomImageSource2 = "./images/" + randomDiceImage2;
 
 document.querySelector("img")[1].setAttribute("src", randomImageSource2);
 
-alert("wefw");
+
+
 
 
 
